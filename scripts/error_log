@@ -1,0 +1,13 @@
+[01-Sep-2021 10:31:51 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'textajfo_indian_science_reports.institutes' doesn't exist in /home2/textajfo/public_html/indianscience.net/demo/scripts/inst_list_script.php:25
+Stack trace:
+#0 /home2/textajfo/public_html/indianscience.net/demo/scripts/inst_list_script.php(25): PDOStatement->execute()
+#1 {main}
+  thrown in /home2/textajfo/public_html/indianscience.net/demo/scripts/inst_list_script.php on line 25
+[01-Sep-2021 10:31:54 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'textajfo_indian_science_reports.institutes' doesn't exist in /home2/textajfo/public_html/indianscience.net/demo/scripts/inst_list_script.php:25
+Stack trace:
+#0 /home2/textajfo/public_html/indianscience.net/demo/scripts/inst_list_script.php(25): PDOStatement->execute()
+#1 {main}
+  thrown in /home2/textajfo/public_html/indianscience.net/demo/scripts/inst_list_script.php on line 25
+[03-Sep-2021 10:37:24 UTC] PHP Parse error:  syntax error, unexpected '$draw' (T_VARIABLE) in /home2/textajfo/public_html/indianscience.net/demo/scripts/inst_list_script.php on line 6
+[03-Sep-2021 10:37:34 UTC] PHP Parse error:  syntax error, unexpected '$draw' (T_VARIABLE) in /home2/textajfo/public_html/indianscience.net/demo/scripts/inst_list_script.php on line 6
+[03-Sep-2021 10:37:34 UTC] PHP Parse error:  syntax error, unexpected '$draw' (T_VARIABLE) in /home2/textajfo/public_html/indianscience.net/demo/scripts/inst_list_script.php on line 6

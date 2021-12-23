@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="JavaScriptLibraryMappings">
+    <file url="PROJECT" libraries="{Chart.js, anychart-core, anychart-tag-cloud, anychart-treemap, bootstrap, chart.js, chartjs-chart-treemap, dataTables.fixedColumns, font-awesome, jquery-3.3.1, jquery-3.6.0, jquery.dataTables, jspdf}" />
+    <includedPredefinedLibrary name="Node.js Core" />
+  </component>
+</project>

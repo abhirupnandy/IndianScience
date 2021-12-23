@@ -1,0 +1,12 @@
+User-agent: *
+
+Disallow: /cgi-bin/
+Disallow: /terms.php
+Disallow: /script.js
+Disallow: /js/
+Disallow: /css/
+Disallow: /fonts/
+Disallow: /data/
+Disallow: /scripts/
+
+Sitemap: http://www.indianscience.net/sitemap.xml

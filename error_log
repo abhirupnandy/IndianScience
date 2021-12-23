@@ -1,0 +1,32 @@
+[08-Oct-2021 08:48:56 UTC] PHP Warning:  require(PHPMailer-master/src/Exception.php): failed to open stream: No such file or directory in /home2/textajfo/public_html/indianscience.net/demo/footer.php on line 86
+[08-Oct-2021 08:48:56 UTC] PHP Warning:  require(PHPMailer-master/src/Exception.php): failed to open stream: No such file or directory in /home2/textajfo/public_html/indianscience.net/demo/footer.php on line 86
+[08-Oct-2021 08:48:56 UTC] PHP Fatal error:  require(): Failed opening required 'PHPMailer-master/src/Exception.php' (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home2/textajfo/public_html/indianscience.net/demo/footer.php on line 86
+[08-Oct-2021 08:49:01 UTC] PHP Warning:  require(PHPMailer-master/src/Exception.php): failed to open stream: No such file or directory in /home2/textajfo/public_html/indianscience.net/demo/footer.php on line 86
+[08-Oct-2021 08:49:01 UTC] PHP Warning:  require(PHPMailer-master/src/Exception.php): failed to open stream: No such file or directory in /home2/textajfo/public_html/indianscience.net/demo/footer.php on line 86
+[08-Oct-2021 08:49:01 UTC] PHP Fatal error:  require(): Failed opening required 'PHPMailer-master/src/Exception.php' (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home2/textajfo/public_html/indianscience.net/demo/footer.php on line 86
+[08-Oct-2021 08:49:03 UTC] PHP Warning:  require(PHPMailer-master/src/Exception.php): failed to open stream: No such file or directory in /home2/textajfo/public_html/indianscience.net/demo/footer.php on line 86
+[08-Oct-2021 08:49:03 UTC] PHP Warning:  require(PHPMailer-master/src/Exception.php): failed to open stream: No such file or directory in /home2/textajfo/public_html/indianscience.net/demo/footer.php on line 86
+[08-Oct-2021 08:49:03 UTC] PHP Fatal error:  require(): Failed opening required 'PHPMailer-master/src/Exception.php' (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home2/textajfo/public_html/indianscience.net/demo/footer.php on line 86
+[08-Oct-2021 08:49:03 UTC] PHP Warning:  require(PHPMailer-master/src/Exception.php): failed to open stream: No such file or directory in /home2/textajfo/public_html/indianscience.net/demo/footer.php on line 86
+[08-Oct-2021 08:49:03 UTC] PHP Warning:  require(PHPMailer-master/src/Exception.php): failed to open stream: No such file or directory in /home2/textajfo/public_html/indianscience.net/demo/footer.php on line 86
+[08-Oct-2021 08:49:03 UTC] PHP Fatal error:  require(): Failed opening required 'PHPMailer-master/src/Exception.php' (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home2/textajfo/public_html/indianscience.net/demo/footer.php on line 86
+[08-Oct-2021 08:49:03 UTC] PHP Warning:  require(PHPMailer-master/src/Exception.php): failed to open stream: No such file or directory in /home2/textajfo/public_html/indianscience.net/demo/footer.php on line 86
+[08-Oct-2021 08:49:03 UTC] PHP Warning:  require(PHPMailer-master/src/Exception.php): failed to open stream: No such file or directory in /home2/textajfo/public_html/indianscience.net/demo/footer.php on line 86
+[08-Oct-2021 08:49:03 UTC] PHP Fatal error:  require(): Failed opening required 'PHPMailer-master/src/Exception.php' (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home2/textajfo/public_html/indianscience.net/demo/footer.php on line 86
+[08-Oct-2021 08:49:03 UTC] PHP Warning:  require(PHPMailer-master/src/Exception.php): failed to open stream: No such file or directory in /home2/textajfo/public_html/indianscience.net/demo/footer.php on line 86
+[08-Oct-2021 08:49:03 UTC] PHP Warning:  require(PHPMailer-master/src/Exception.php): failed to open stream: No such file or directory in /home2/textajfo/public_html/indianscience.net/demo/footer.php on line 86
+[08-Oct-2021 08:49:03 UTC] PHP Fatal error:  require(): Failed opening required 'PHPMailer-master/src/Exception.php' (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home2/textajfo/public_html/indianscience.net/demo/footer.php on line 86
+[08-Oct-2021 08:49:03 UTC] PHP Warning:  require(PHPMailer-master/src/Exception.php): failed to open stream: No such file or directory in /home2/textajfo/public_html/indianscience.net/demo/footer.php on line 86
+[08-Oct-2021 08:49:03 UTC] PHP Warning:  require(PHPMailer-master/src/Exception.php): failed to open stream: No such file or directory in /home2/textajfo/public_html/indianscience.net/demo/footer.php on line 86
+[08-Oct-2021 08:49:03 UTC] PHP Fatal error:  require(): Failed opening required 'PHPMailer-master/src/Exception.php' (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home2/textajfo/public_html/indianscience.net/demo/footer.php on line 86
+[08-Oct-2021 08:49:39 UTC] PHP Warning:  require(PHPMailer-master/src/Exception.php): failed to open stream: No such file or directory in /home2/textajfo/public_html/indianscience.net/demo/footer.php on line 86
+[08-Oct-2021 08:49:39 UTC] PHP Warning:  require(PHPMailer-master/src/Exception.php): failed to open stream: No such file or directory in /home2/textajfo/public_html/indianscience.net/demo/footer.php on line 86
+[08-Oct-2021 08:49:39 UTC] PHP Fatal error:  require(): Failed opening required 'PHPMailer-master/src/Exception.php' (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home2/textajfo/public_html/indianscience.net/demo/footer.php on line 86
+[08-Oct-2021 08:55:52 UTC] PHP Fatal error:  Uncaught Error: Class 'SMTP' not found in /home2/textajfo/public_html/indianscience.net/demo/footer.php:104
+Stack trace:
+#0 /home2/textajfo/public_html/indianscience.net/demo/index.php(903): include()
+#1 {main}
+  thrown in /home2/textajfo/public_html/indianscience.net/demo/footer.php on line 104
+[26-Oct-2021 09:02:26 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/textajfo/public_html/indianscience.net/mailsend.php:44) in /home2/textajfo/public_html/indianscience.net/mailsend.php on line 45
+[26-Oct-2021 09:05:51 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/textajfo/public_html/indianscience.net/mailsend.php:44) in /home2/textajfo/public_html/indianscience.net/mailsend.php on line 47
+[26-Oct-2021 09:07:26 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/textajfo/public_html/indianscience.net/mailsend.php:44) in /home2/textajfo/public_html/indianscience.net/mailsend.php on line 48
