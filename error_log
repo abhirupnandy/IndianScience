@@ -1,0 +1,101 @@
+[08-Oct-2021 08:48:56 UTC] PHP Warning:  require(PHPMailer-master/src/Exception.php): failed to open stream: No such file or directory in /home2/textajfo/public_html/indianscience.net/demo/footer.php on line 86
+[08-Oct-2021 08:48:56 UTC] PHP Warning:  require(PHPMailer-master/src/Exception.php): failed to open stream: No such file or directory in /home2/textajfo/public_html/indianscience.net/demo/footer.php on line 86
+[08-Oct-2021 08:48:56 UTC] PHP Fatal error:  require(): Failed opening required 'PHPMailer-master/src/Exception.php' (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home2/textajfo/public_html/indianscience.net/demo/footer.php on line 86
+[08-Oct-2021 08:49:01 UTC] PHP Warning:  require(PHPMailer-master/src/Exception.php): failed to open stream: No such file or directory in /home2/textajfo/public_html/indianscience.net/demo/footer.php on line 86
+[08-Oct-2021 08:49:01 UTC] PHP Warning:  require(PHPMailer-master/src/Exception.php): failed to open stream: No such file or directory in /home2/textajfo/public_html/indianscience.net/demo/footer.php on line 86
+[08-Oct-2021 08:49:01 UTC] PHP Fatal error:  require(): Failed opening required 'PHPMailer-master/src/Exception.php' (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home2/textajfo/public_html/indianscience.net/demo/footer.php on line 86
+[08-Oct-2021 08:49:03 UTC] PHP Warning:  require(PHPMailer-master/src/Exception.php): failed to open stream: No such file or directory in /home2/textajfo/public_html/indianscience.net/demo/footer.php on line 86
+[08-Oct-2021 08:49:03 UTC] PHP Warning:  require(PHPMailer-master/src/Exception.php): failed to open stream: No such file or directory in /home2/textajfo/public_html/indianscience.net/demo/footer.php on line 86
+[08-Oct-2021 08:49:03 UTC] PHP Fatal error:  require(): Failed opening required 'PHPMailer-master/src/Exception.php' (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home2/textajfo/public_html/indianscience.net/demo/footer.php on line 86
+[08-Oct-2021 08:49:03 UTC] PHP Warning:  require(PHPMailer-master/src/Exception.php): failed to open stream: No such file or directory in /home2/textajfo/public_html/indianscience.net/demo/footer.php on line 86
+[08-Oct-2021 08:49:03 UTC] PHP Warning:  require(PHPMailer-master/src/Exception.php): failed to open stream: No such file or directory in /home2/textajfo/public_html/indianscience.net/demo/footer.php on line 86
+[08-Oct-2021 08:49:03 UTC] PHP Fatal error:  require(): Failed opening required 'PHPMailer-master/src/Exception.php' (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home2/textajfo/public_html/indianscience.net/demo/footer.php on line 86
+[08-Oct-2021 08:49:03 UTC] PHP Warning:  require(PHPMailer-master/src/Exception.php): failed to open stream: No such file or directory in /home2/textajfo/public_html/indianscience.net/demo/footer.php on line 86
+[08-Oct-2021 08:49:03 UTC] PHP Warning:  require(PHPMailer-master/src/Exception.php): failed to open stream: No such file or directory in /home2/textajfo/public_html/indianscience.net/demo/footer.php on line 86
+[08-Oct-2021 08:49:03 UTC] PHP Fatal error:  require(): Failed opening required 'PHPMailer-master/src/Exception.php' (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home2/textajfo/public_html/indianscience.net/demo/footer.php on line 86
+[08-Oct-2021 08:49:03 UTC] PHP Warning:  require(PHPMailer-master/src/Exception.php): failed to open stream: No such file or directory in /home2/textajfo/public_html/indianscience.net/demo/footer.php on line 86
+[08-Oct-2021 08:49:03 UTC] PHP Warning:  require(PHPMailer-master/src/Exception.php): failed to open stream: No such file or directory in /home2/textajfo/public_html/indianscience.net/demo/footer.php on line 86
+[08-Oct-2021 08:49:03 UTC] PHP Fatal error:  require(): Failed opening required 'PHPMailer-master/src/Exception.php' (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home2/textajfo/public_html/indianscience.net/demo/footer.php on line 86
+[08-Oct-2021 08:49:03 UTC] PHP Warning:  require(PHPMailer-master/src/Exception.php): failed to open stream: No such file or directory in /home2/textajfo/public_html/indianscience.net/demo/footer.php on line 86
+[08-Oct-2021 08:49:03 UTC] PHP Warning:  require(PHPMailer-master/src/Exception.php): failed to open stream: No such file or directory in /home2/textajfo/public_html/indianscience.net/demo/footer.php on line 86
+[08-Oct-2021 08:49:03 UTC] PHP Fatal error:  require(): Failed opening required 'PHPMailer-master/src/Exception.php' (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home2/textajfo/public_html/indianscience.net/demo/footer.php on line 86
+[08-Oct-2021 08:49:39 UTC] PHP Warning:  require(PHPMailer-master/src/Exception.php): failed to open stream: No such file or directory in /home2/textajfo/public_html/indianscience.net/demo/footer.php on line 86
+[08-Oct-2021 08:49:39 UTC] PHP Warning:  require(PHPMailer-master/src/Exception.php): failed to open stream: No such file or directory in /home2/textajfo/public_html/indianscience.net/demo/footer.php on line 86
+[08-Oct-2021 08:49:39 UTC] PHP Fatal error:  require(): Failed opening required 'PHPMailer-master/src/Exception.php' (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home2/textajfo/public_html/indianscience.net/demo/footer.php on line 86
+[08-Oct-2021 08:55:52 UTC] PHP Fatal error:  Uncaught Error: Class 'SMTP' not found in /home2/textajfo/public_html/indianscience.net/demo/footer.php:104
+Stack trace:
+#0 /home2/textajfo/public_html/indianscience.net/demo/index.php(903): include()
+#1 {main}
+  thrown in /home2/textajfo/public_html/indianscience.net/demo/footer.php on line 104
+[26-Oct-2021 09:02:26 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/textajfo/public_html/indianscience.net/mailsend.php:44) in /home2/textajfo/public_html/indianscience.net/mailsend.php on line 45
+[26-Oct-2021 09:05:51 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/textajfo/public_html/indianscience.net/mailsend.php:44) in /home2/textajfo/public_html/indianscience.net/mailsend.php on line 47
+[26-Oct-2021 09:07:26 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/textajfo/public_html/indianscience.net/mailsend.php:44) in /home2/textajfo/public_html/indianscience.net/mailsend.php on line 48
+[22-Nov-2021 11:29:59 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''grid.34980.36'' ORDER BY `year`' at line 1 in /home2/textajfo/public_html/indianscience.net/institute.php:651
+Stack trace:
+#0 /home2/textajfo/public_html/indianscience.net/institute.php(651): PDOStatement->execute()
+#1 {main}
+  thrown in /home2/textajfo/public_html/indianscience.net/institute.php on line 651
+[22-Nov-2021 11:53:05 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''grid.34980.36'' ORDER BY `year`' at line 1 in /home2/textajfo/public_html/indianscience.net/institute.php:651
+Stack trace:
+#0 /home2/textajfo/public_html/indianscience.net/institute.php(651): PDOStatement->execute()
+#1 {main}
+  thrown in /home2/textajfo/public_html/indianscience.net/institute.php on line 651
+[23-Nov-2021 16:36:36 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '[0]' ORDER BY `year`' at line 1 in /home2/textajfo/public_html/indianscience.net/institute.php:651
+Stack trace:
+#0 /home2/textajfo/public_html/indianscience.net/institute.php(651): PDOStatement->execute()
+#1 {main}
+  thrown in /home2/textajfo/public_html/indianscience.net/institute.php on line 651
+[24-Nov-2021 20:03:21 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''grid.418304.a'' ORDER BY `year`' at line 1 in /home2/textajfo/public_html/indianscience.net/institute.php:651
+Stack trace:
+#0 /home2/textajfo/public_html/indianscience.net/institute.php(651): PDOStatement->execute()
+#1 {main}
+  thrown in /home2/textajfo/public_html/indianscience.net/institute.php on line 651
+[24-Nov-2021 21:29:09 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''grid.418304.a'' ORDER BY `year`' at line 1 in /home2/textajfo/public_html/indianscience.net/institute.php:651
+Stack trace:
+#0 /home2/textajfo/public_html/indianscience.net/institute.php(651): PDOStatement->execute()
+#1 {main}
+  thrown in /home2/textajfo/public_html/indianscience.net/institute.php on line 651
+[27-Nov-2021 15:33:40 UTC] PHP Fatal error:  Uncaught PHPMailer\PHPMailer\Exception: Invalid address:  (to):  in /home2/textajfo/public_html/indianscience.net/PHPMailer/src/PHPMailer.php:1092
+Stack trace:
+#0 /home2/textajfo/public_html/indianscience.net/PHPMailer/src/PHPMailer.php(1014): PHPMailer\PHPMailer\PHPMailer->addOrEnqueueAnAddress('to', '', '')
+#1 /home2/textajfo/public_html/indianscience.net/mailsend.php(19): PHPMailer\PHPMailer\PHPMailer->addAddress('')
+#2 {main}
+  thrown in /home2/textajfo/public_html/indianscience.net/PHPMailer/src/PHPMailer.php on line 1092
+[29-Nov-2021 17:37:03 UTC] PHP Fatal error:  Uncaught PHPMailer\PHPMailer\Exception: Invalid address:  (to):  in /home2/textajfo/public_html/indianscience.net/PHPMailer/src/PHPMailer.php:1092
+Stack trace:
+#0 /home2/textajfo/public_html/indianscience.net/PHPMailer/src/PHPMailer.php(1014): PHPMailer\PHPMailer\PHPMailer->addOrEnqueueAnAddress('to', '', '')
+#1 /home2/textajfo/public_html/indianscience.net/mailsend.php(19): PHPMailer\PHPMailer\PHPMailer->addAddress('')
+#2 {main}
+  thrown in /home2/textajfo/public_html/indianscience.net/PHPMailer/src/PHPMailer.php on line 1092
+[30-Nov-2021 19:55:48 UTC] PHP Fatal error:  Uncaught PHPMailer\PHPMailer\Exception: Invalid address:  (to):  in /home2/textajfo/public_html/indianscience.net/PHPMailer/src/PHPMailer.php:1092
+Stack trace:
+#0 /home2/textajfo/public_html/indianscience.net/PHPMailer/src/PHPMailer.php(1014): PHPMailer\PHPMailer\PHPMailer->addOrEnqueueAnAddress('to', '', '')
+#1 /home2/textajfo/public_html/indianscience.net/mailsend.php(19): PHPMailer\PHPMailer\PHPMailer->addAddress('')
+#2 {main}
+  thrown in /home2/textajfo/public_html/indianscience.net/PHPMailer/src/PHPMailer.php on line 1092
+[01-Dec-2021 01:56:37 UTC] PHP Fatal error:  Uncaught PHPMailer\PHPMailer\Exception: Invalid address:  (to):  in /home2/textajfo/public_html/indianscience.net/PHPMailer/src/PHPMailer.php:1092
+Stack trace:
+#0 /home2/textajfo/public_html/indianscience.net/PHPMailer/src/PHPMailer.php(1014): PHPMailer\PHPMailer\PHPMailer->addOrEnqueueAnAddress('to', '', '')
+#1 /home2/textajfo/public_html/indianscience.net/mailsend.php(19): PHPMailer\PHPMailer\PHPMailer->addAddress('')
+#2 {main}
+  thrown in /home2/textajfo/public_html/indianscience.net/PHPMailer/src/PHPMailer.php on line 1092
+[13-Dec-2021 16:39:02 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''grid.415131.3'' ORDER BY `year`' at line 1 in /home2/textajfo/public_html/indianscience.net/institute.php:651
+Stack trace:
+#0 /home2/textajfo/public_html/indianscience.net/institute.php(651): PDOStatement->execute()
+#1 {main}
+  thrown in /home2/textajfo/public_html/indianscience.net/institute.php on line 651
+[13-Dec-2021 17:07:23 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''grid.413618.9'' ORDER BY `year`' at line 1 in /home2/textajfo/public_html/indianscience.net/institute.php:651
+Stack trace:
+#0 /home2/textajfo/public_html/indianscience.net/institute.php(651): PDOStatement->execute()
+#1 {main}
+  thrown in /home2/textajfo/public_html/indianscience.net/institute.php on line 651
+[14-Dec-2021 19:53:10 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'A=0' ORDER BY `year`' at line 1 in /home2/textajfo/public_html/indianscience.net/institute.php:651
+Stack trace:
+#0 /home2/textajfo/public_html/indianscience.net/institute.php(651): PDOStatement->execute()
+#1 {main}
+  thrown in /home2/textajfo/public_html/indianscience.net/institute.php on line 651
+[14-Dec-2021 20:02:17 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '[0]' ORDER BY `year`' at line 1 in /home2/textajfo/public_html/indianscience.net/institute.php:651
+Stack trace:
+#0 /home2/textajfo/public_html/indianscience.net/institute.php(651): PDOStatement->execute()
+#1 {main}
+  thrown in /home2/textajfo/public_html/indianscience.net/institute.php on line 651
