@@ -8,18 +8,15 @@
                         <ul class="ftco-footer-social p-0">
                             <li class="ftco-animate">
                                 <a href="https://twitter.com/textanalyticsin" target="_blank"
-                                   data-toggle="tooltip" data-placement="top" title="Twitter"><span
-                                            class="ion-logo-twitter"></span></a>
+                                   data-toggle="tooltip" data-placement="top" title="Twitter"><span class="ion-logo-twitter"></span></a>
                             </li>
                             <li class="ftco-animate">
-                                <a href="https://www.facebook.com/textanalyticsin" target="_blank"
-                                   data-toggle="tooltip" data-placement="top" title="Facebook"><span
-                                            class="ion-logo-facebook"></span></a>
+                                <a href="https://www.facebook.com/textanalyticsin"  target="_blank"
+                                   data-toggle="tooltip" data-placement="top" title="Facebook"><span class="ion-logo-facebook"></span></a>
                             </li>
                             <li class="ftco-animate">
-                                <a href="https://www.linkedin.com/in/textanalytics-in-848053a7/" target="_blank"
-                                   data-toggle="tooltip" data-placement="top" title="Linked-In"><span
-                                            class="ion-logo-linkedin"></span></a>
+                                <a href="https://www.linkedin.com/in/textanalytics-in-848053a7/"  target="_blank"
+                                   data-toggle="tooltip" data-placement="top" title="Linked-In"><span class="ion-logo-linkedin"></span></a>
                             </li>
                         </ul>
                         <div>
@@ -33,8 +30,7 @@
                         <div class="row mt-md-5">
                             <div class="col-12">
                                 <p class="copyright" style="word-break: keep-all">
-                                    Copyright &copy; <a href="http://viveksingh.in/" target="_blank">Prof. Vivek Kumar
-                                        Singh</a>,<br>
+                                    Copyright &copy; <a href="http://viveksingh.in/" target="_blank">Prof. Vivek Kumar Singh</a>,<br>
                                     2021.
                                     <script>
                                         //document.write(new Date().getFullYear());
@@ -95,7 +91,7 @@
                 </div>
             </div>
             <!--<div class="col-md-3 py-md-5 py-4 aside-stretch-right pl-lg-5">-->
-            <div class="col-lg-3 py-md-5 py-4 ">
+                <div class="col-lg-3 py-md-5 py-4 ">
 
 
                 <h2 class="footer-heading">Add your Feedback</h2>
@@ -129,9 +125,8 @@
 <!-- loader -->
 <div id="ftco-loader" class="show fullscreen">
     <svg class="circular" width="48px" height="48px">
-        <circle class="path-bg" cx="24" cy="24" r="22" fill="none" stroke-width="4" stroke="#eeeeee"/>
-        <circle class="path" cx="24" cy="24" r="22" fill="none" stroke-width="4" stroke-miterlimit="10"
-                stroke="#F96D00"/>
+        <circle class="path-bg" cx="24" cy="24" r="22" fill="none" stroke-width="4" stroke="#eeeeee" />
+        <circle class="path" cx="24" cy="24" r="22" fill="none" stroke-width="4" stroke-miterlimit="10" stroke="#F96D00" />
     </svg>
 </div>
 

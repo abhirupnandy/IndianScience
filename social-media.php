@@ -3,18 +3,18 @@
 <a href="javascript:void(0);" id="scroll" title="Scroll to Top" style="display: none;">Top<span></span></a>
 <!-- NAVIGATION BAR -->
 <section>
-    <nav class="navbar navbar-expand-lg navbar-dark ftco_navbar bg-dark ftco-navbar-light" id="ftco-navbar">
-        <div class="container">
-            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#ftco-nav"
-                    aria-controls="ftco-nav" aria-expanded="false" aria-label="Toggle navigation">
-                <span class="fa fa-bars"></span> Menu
-            </button>
-            <form action="#" class="searchform order-lg-last">
-                <div class="form-group d-flex">
-                    <button type="button" class="form-control search"><a href="index.php#section1">
-                            <span class="fa fa-search"></span></a></button>
-                </div>
-            </form>
+	<nav class="navbar navbar-expand-lg navbar-dark ftco_navbar bg-dark ftco-navbar-light" id="ftco-navbar">
+		<div class="container">
+			<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#ftco-nav"
+			        aria-controls="ftco-nav" aria-expanded="false" aria-label="Toggle navigation">
+				<span class="fa fa-bars"></span> Menu
+			</button>
+			<form action="#" class="searchform order-lg-last">
+				<div class="form-group d-flex">
+					<button type="button" class="form-control search"><a href="index.php#section1">
+							<span class="fa fa-search"></span></a></button>
+				</div>
+			</form>
             <div class="collapse navbar-collapse" id="ftco-nav">
                 <ul class="navbar-nav mr-auto">
                     <li class="nav-item"><a href="index.php" class="nav-link">Home</a></li>
@@ -28,7 +28,7 @@
                            data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
                             More
                         </a>
-                        <div class="dropdown-menu item bg-warning text-dark" aria-labelledby="navbarDropdown">
+                        <div class="dropdown-menu item bg-warning text-dark" aria-labelledby="navbarDropdown" >
                             <a class="dropdown-item" href="social-media.php">Social Media Visibility</a>
                             <a class="dropdown-item" href="grants.php">Research Grants</a>
                             <a class="dropdown-item" href="sdg_research.php">SDG related Research</a>
@@ -38,9 +38,9 @@
                     </li>
                 </ul>
             </div>
-        </div>
-    </nav>
-    <!-- END nav -->
+		</div>
+	</nav>
+	<!-- END nav -->
 </section>
 <div class="hero-wrap p-5" style="background-color: #FFA400">
     <div class="overlay"></div>
@@ -58,20 +58,13 @@
             <div class="col-lg-8 ftco-animate">
                 <h2 class="mb-3" id="introduction">Social Media Visibility of Indian Research Output</h2>
                 <p class="text-justify">
-                    The altmetrics (used for Alternative Metrics) have recently emerged as a popular measure of impact
-                    of
-                    research, in addition to the traditionally used measure of citations. Altmetrics aims to capture the
-                    social media
-                    activity around scientific research. Some studies have suggested that on an average, about 48% of
-                    Research output
-                    of the world gets some Social Media attention. In this context, the social media attention level for
-                    Indian
-                    Research Output during 2010-2019, has also been computed. It is observed that out of the total
-                    research output in 2010,
-                    13.7% of the research output gets some social media attention. This level has continuously increased
-                    during the period,
-                    reaching to 25.2% in 2017 and settling down to 23.3% in 2019. The figure below shows the year-wise
-                    altmetric coverage
+                    The altmetrics (used for Alternative Metrics) have recently emerged as a popular measure of impact of
+                    research, in addition to the traditionally used measure of citations. Altmetrics aims to capture the social media
+                    activity around scientific research. Some studies have suggested that on an average, about 48% of Research output
+                    of the world gets some Social Media attention. In this context, the social media attention level for Indian
+                    Research Output during 2010-2019, has also been computed. It is observed that out of the total research output in 2010,
+                    13.7% of the research output gets some social media attention. This level has continuously increased during the period,
+                    reaching to 25.2% in 2017 and settling down to 23.3% in 2019. The figure below shows the year-wise altmetric coverage
                     percentage for the Indian Research output during 2010 - 2019 period.<br><br>
                     <img src="images/altmetrics/8-1.jpg" alt="Fig 8.1" class="img img-thumbnail img-fluid p-2">
                 </p>
@@ -80,12 +73,9 @@
                 <div class="sidebar-box ftco-animate">
                     <div class="categories">
                         <h3>Categories</h3>
-                        <li><a href="#introduction">Indian Research Output <span
-                                        class="ion-ios-arrow-forward"></span></a></li>
-                        <li><a href="#coverage">Coverage and Mentions <span class="ion-ios-arrow-forward"></span></a>
-                        </li>
-                        <li><a href="#sub_dist">Subject-area variations<span class="ion-ios-arrow-forward"></span></a>
-                        </li>
+                        <li><a href="#introduction">Indian Research Output <span class="ion-ios-arrow-forward"></span></a></li>
+                        <li><a href="#coverage">Coverage and Mentions <span class="ion-ios-arrow-forward"></span></a></li>
+                        <li><a href="#sub_dist">Subject-area variations<span class="ion-ios-arrow-forward"></span></a></li>
                     </div>
                 </div>
 
@@ -107,40 +97,33 @@
 <div class="container pb-5 mb-5">
     <h2 class="mb-3" id="coverage">Coverage and Mentions in different platforms</h2>
     <p class="text-justify">
-        The social media coverage and mentions per paper have also been analysed for certain selected platforms. In case
-        of Twitter,
-        the coverage percentage has increased from 2.84% in 2010 to 19.4% in 2019, with 6.20 average tweets per paper.
-        The figure below
+        The social media coverage and mentions per paper have also been analysed for certain selected platforms. In case of Twitter,
+        the coverage percentage has increased from 2.84% in 2010 to 19.4% in 2019, with 6.20 average tweets per paper. The figure below
         shows the year-wise coverage percentage of the research in Twitter.</p>
     <br><br>
     <img src="images/altmetrics/twitter.jpg" alt="Fig 8.2" class="img img-thumbnail img-fluid p-2 w-50"
          style="margin-left: auto; margin-right: auto; display: block">
     <p class="text-justify">
-        In case of Mendeley, the coverage percentage has increased from 13.5% in 2010 to 24.84% in 2017 and finally
-        reaching 22.8% in 2019, with 41.33 average
+        In case of Mendeley, the coverage percentage has increased from 13.5% in 2010 to 24.84% in 2017 and finally reaching 22.8% in 2019, with 41.33 average
         mentions per paper. The figure below shows the year-wise coverage percentage of the research in Mendeley.
         <br><br>
         <img src="images/altmetrics/mendeley.jpg" alt="Fig 8.4" class="img img-thumbnail img-fluid w-50"
              style="margin-left: auto; margin-right: auto; display: block">
     </p>
     <p class="text-justify">
-        In case of Facebook, the coverage percentage has increased from 1.19% in 2010 to 4.14% in 2015, before settling
-        down at 2.75% in 2019, with 1.94 average mentions per paper.
+        In case of Facebook, the coverage percentage has increased from 1.19% in 2010 to 4.14% in 2015, before settling down at 2.75% in 2019, with 1.94 average mentions per paper.
         The figure below shows the year-wise coverage percentage of the research in Facebook.
         <br><br>
         <img src="images/altmetrics/fb.jpg" alt="Fig 8.3" class="img img-thumbnail img-fluid p-2 w-50"
-             style="margin-left: auto; margin-right: auto; display: block">
+                                                                                style="margin-left: auto; margin-right: auto; display: block">
     </p>
 </div>
 <div class="container pb-5 mb-5">
     <h2 class="mb-3" id="sub_dist">Subject area-wise variations in social media coverage</h2>
     <p class="text-justify">
-        The social media coverage of a research output in different subject areas vary significantly, ranging from
-        coverage percentage of
-        40.18% for Biological Sciences, to 9.47% in Information & Computing Sciences. The coverage variations are also
-        seen for
-        different platforms, with varied values of coverage percentage and average mentions per paper. The table below
-        shows the overall
+        The social media coverage of a research output in different subject areas vary significantly, ranging from coverage percentage of
+        40.18% for Biological Sciences, to 9.47% in Information & Computing Sciences. The coverage variations are also seen for
+        different platforms, with varied values of coverage percentage and average mentions per paper. The table below shows the overall
         as well as platform-wise coverage percentage and average mentions per paper.
     </p>
     <table class="table table-bordered table-hover text-cente text-dark" id="sub_alt">
@@ -380,15 +363,15 @@
         </tbody>
     </table>
     <script>
-        $(document).ready(function () {
+        $(document).ready(function(){
             table = $('#sub_alt').DataTable({
-                'ordering': [[0, 'asc']],
+                'ordering' : [[0,'asc']],
                 'searching': false,
                 'paginate': true,
                 'bInfo': false,
-                'scrollX': true,
+                'scrollX':        true,
                 'scrollCollapse': false,
-                "lengthMenu": [[11, -1], [11, "All"]],
+                "lengthMenu": [[11, -1],[11, "All"] ],
             });
         });
     </script>

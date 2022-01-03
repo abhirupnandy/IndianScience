@@ -11,3 +11,6 @@ Stack trace:
 [03-Sep-2021 10:37:24 UTC] PHP Parse error:  syntax error, unexpected '$draw' (T_VARIABLE) in /home2/textajfo/public_html/indianscience.net/demo/scripts/inst_list_script.php on line 6
 [03-Sep-2021 10:37:34 UTC] PHP Parse error:  syntax error, unexpected '$draw' (T_VARIABLE) in /home2/textajfo/public_html/indianscience.net/demo/scripts/inst_list_script.php on line 6
 [03-Sep-2021 10:37:34 UTC] PHP Parse error:  syntax error, unexpected '$draw' (T_VARIABLE) in /home2/textajfo/public_html/indianscience.net/demo/scripts/inst_list_script.php on line 6
+[23-Dec-2021 10:24:48 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home2/textajfo/public_html/indianscience.net/scripts/concepts_script.php on line 22
+[23-Dec-2021 10:24:48 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home2/textajfo/public_html/indianscience.net/scripts/concepts_script.php on line 22
+[23-Dec-2021 10:24:48 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home2/textajfo/public_html/indianscience.net/scripts/concepts_script.php on line 22

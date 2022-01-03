@@ -2172,6 +2172,12 @@
                     <div class="col">
                         <h5>x(g)-index : &nbsp;<?php echo $x_g_index; ?></h5>
                     </div>
+                    <div class="col">
+                        <a href="search_page.php">
+                            Search for more concepts
+                            <span class="fa fa-search text-dark"></span>
+                        </a>
+                    </div>
                 </div>
                 <div class="row p-3">
                     <div class="col">

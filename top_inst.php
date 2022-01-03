@@ -1,6 +1,6 @@
 <?php
-	header("refresh:5;url=list_inst.php");
-	include "header.php"
+    header( "refresh:5;url=list_inst.php" );
+    include "header.php"
 ?>
 <!-- BackToTop Button -->
 <a href="javascript:void(0);" id="scroll" title="Scroll to Top" style="display: none;">Top<span></span></a>
@@ -31,7 +31,7 @@
                            data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
                             More
                         </a>
-                        <div class="dropdown-menu item bg-warning text-dark" aria-labelledby="navbarDropdown">
+                        <div class="dropdown-menu item bg-warning text-dark" aria-labelledby="navbarDropdown" >
                             <a class="dropdown-item" href="grants.php">Research Grants</a>
                             <a class="dropdown-item" href="social-media.php">Social Media Visibility</a>
                             <a class="dropdown-item" href="sdg_research.php">SDG based Research</a>
@@ -56,28 +56,23 @@
             </div>
         </div>
     </div>
-</section>
-<section class="ftco-section ftco-degree-bg">
+</section><section class="ftco-section ftco-degree-bg">
     <div class="container">
         <div class="row">
             <div class="col-lg-8 ftco-animate">
                 <h2 class="mb-3" id="introduction">Page under construction</h2>
                 <p>
-                    Redirecting to List of Institutions in 5 secs...<br>
+	                Redirecting to List of Institutions in 5 secs...<br>
                 </p>
             </div>
             <div class="col-lg-4 sidebar pl-lg-5 ftco-animate">
                 <div class="sidebar-box ftco-animate">
                     <div class="categories">
                         <h3>Categories</h3>
-                        <li><a href="#introduction">Indian Research Output <span
-                                        class="ion-ios-arrow-forward"></span></a></li>
-                        <li><a href="#compare">Comparison with other countries<span
-                                        class="ion-ios-arrow-forward"></span></a></li>
-                        <li><a href="#sub_dist">Subject-area Distribution<span class="ion-ios-arrow-forward"></span></a>
-                        </li>
-                        <li><a href="#sub_analysis">Subject-area Analysis<span class="ion-ios-arrow-forward"></span></a>
-                        </li>
+                        <li><a href="#introduction">Indian Research Output <span class="ion-ios-arrow-forward"></span></a></li>
+                        <li><a href="#compare">Comparison with other countries<span class="ion-ios-arrow-forward"></span></a></li>
+                        <li><a href="#sub_dist">Subject-area Distribution<span class="ion-ios-arrow-forward"></span></a></li>
+                        <li><a href="#sub_analysis">Subject-area Analysis<span class="ion-ios-arrow-forward"></span></a></li>
                     </div>
                 </div>
 

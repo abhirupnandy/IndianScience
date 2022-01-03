@@ -28,7 +28,7 @@
                            data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
                             More
                         </a>
-                        <div class="dropdown-menu item bg-warning text-dark" aria-labelledby="navbarDropdown">
+                        <div class="dropdown-menu item bg-warning text-dark" aria-labelledby="navbarDropdown" >
                             <a class="dropdown-item" href="social-media.php">Social Media Visibility</a>
                             <a class="dropdown-item active" href="grants.php">Research Grants</a>
                             <a class="dropdown-item" href="sdg_research.php">SDG related Research</a>
@@ -58,16 +58,11 @@
                 <h2 class="mb-3" id="introduction">Research Grants Volume</h2>
                 <p class="text-justify">
                     The volume of research funding to Indian Institutions, during the period 2010 - 2019, has increased
-                    significantly. While the total grant volume was 308.02 Million USD in 2010, it increased to more
-                    than double
-                    by 2019 (672.97 Million USD in 2019). The figure below (on the left) shows year-wise amount of
-                    research
-                    funding in Million USD. Out of the total grants for research during 2010-2019, 38.71% are from
-                    domestic
-                    funding agencies and 61.29% are from international funding agencies. The domestic grants are
-                    increased
-                    marginally during this period. The figure below (on the right) shows distribution of domestic and
-                    international
+                    significantly. While the total grant volume was 308.02 Million USD in 2010, it increased to more than double
+                    by 2019 (672.97 Million USD in 2019). The figure below (on the left) shows year-wise amount of research
+                    funding in Million USD. Out of the total grants for research during 2010-2019, 38.71% are from domestic
+                    funding agencies and 61.29% are from international funding agencies. The domestic grants are increased
+                    marginally during this period. The figure below (on the right) shows distribution of domestic and international
                     grants during 2010 - 2019.<br><br>
                 </p>
                 <div class="row pt-0 mt-0 pb-md-4">
@@ -85,16 +80,11 @@
                 <div class="sidebar-box ftco-animate">
                     <div class="categories">
                         <h3>Categories</h3>
-                        <li><a href="#introduction">Research Grants Volume <span
-                                        class="ion-ios-arrow-forward"></span></a></li>
-                        <li><a href="#compare">Comparison with major countries<span
-                                        class="ion-ios-arrow-forward"></span></a></li>
-                        <li><a href="#agencies">Major funding agencies<span class="ion-ios-arrow-forward"></span></a>
-                        </li>
-                        <li><a href="#sub_dist">Subject area-wise Distribution<span
-                                        class="ion-ios-arrow-forward"></span></a></li>
-                        <li><a href="#support">Publications supported by grants<span
-                                        class="ion-ios-arrow-forward"></span></a></li>
+                        <li><a href="#introduction">Research Grants Volume <span class="ion-ios-arrow-forward"></span></a></li>
+                        <li><a href="#compare">Comparison with major countries<span class="ion-ios-arrow-forward"></span></a></li>
+                        <li><a href="#agencies">Major funding agencies<span class="ion-ios-arrow-forward"></span></a></li>
+                        <li><a href="#sub_dist">Subject area-wise Distribution<span class="ion-ios-arrow-forward"></span></a></li>
+                        <li><a href="#support">Publications supported by grants<span class="ion-ios-arrow-forward"></span></a></li>
                     </div>
                 </div>
 
@@ -116,17 +106,13 @@
 <div class="container pb-5 mb-5">
     <h2 class="mb-3" id="compare">Comparison with other major countries</h2>
     <p class="text-justify">
-        In terms of total volume of research grants during 2010 - 2019, United States leads with a total grant volume of
-        406.5 Billion USD,
-        followed by United Kingdom (128.5 Billion USD), Germany (126.2 Billion USD). This is followed by France (58.5
-        Billion USD),
-        Spain (48.6 Billion USD) and Italy (48 Billion USD). India ranks 15<sup>th</sup> in Total Research Grant Volume
-        with a
+        In terms of total volume of research grants during 2010 - 2019, United States leads with a total grant volume of 406.5 Billion USD,
+        followed by United Kingdom (128.5 Billion USD), Germany (126.2 Billion USD). This is followed by France (58.5 Billion USD),
+        Spain (48.6 Billion USD) and Italy (48 Billion USD). India ranks 15<sup>th</sup> in Total Research Grant Volume with a
         value of 4.6 Billion USD. Thus the Research Grant volume for India is about 100 orders of magnitude lesser
         as compared to United States, and 27 times less as compared to United Kingdom and Germany. The table below shows
         number and volume of research grants along with distribution of domestic and international
-        grants. It is observed that United States, Japan, China and Canada have predominantly domestic grants, whereas
-        Brazil, France,
+        grants. It is observed that United States, Japan, China and Canada have predominantly domestic grants, whereas Brazil, France,
         Italy, Netherlands, Russia, South Korea and Spain have a major share of International grants.
     </p>
     <table class="table table-bordered table-hover text-center text-dark" id="grants_inter">
@@ -283,32 +269,26 @@
         </tbody>
     </table>
     <script>
-        $(document).ready(function () {
+        $(document).ready(function(){
             table = $('#grants_inter').DataTable({
                 'searching': false,
                 'paginate': true,
                 'bInfo': false,
-                'order': [[2, 'desc']],
+                'order': [[ 2, 'desc' ]],
                 'scrollX': true,
                 "autoWidth": false,
-                'lengthMenu': [[10, -1], [10, 'All']],
+                'lengthMenu': [[10, -1],[10, 'All'] ],
             });
         });
     </script>
     <h2 class="mb-3" id="agencies">Major Funding Agencies</h2>
     <p class="text-justify">
-        The Indian Research, during 2010 - 2019 period, has been funded by both domestic and international agencies. The
-        major
-        domestic funders are Department of Biotechnology (1,280.5 Million USD), Science and Engineering Research Board
-        (320.6 Million USD),
-        Wellcome Trust-DBT India Alliance (127.7 Million), Department of Science and Technology (25 Million USD) and
-        Ministry
-        of Earth Sciences (14.9 Million USD). The major International funders include Bill and Melinda Gates Foundation
-        (669 Million USD),
-        European Commission (568 Million USD), Engineering and Physical Sciences Research Council (410 Million USD),
-        Medical Research Council
-        (241 Million USD) etc. The figure below (on the left) shows a tree maps of major Domestic Funding Agencies and
-        the figure below
+        The Indian Research, during 2010 - 2019 period, has been funded by both domestic and international agencies. The major
+        domestic funders are Department of Biotechnology (1,280.5 Million USD), Science and Engineering Research Board (320.6 Million USD),
+        Wellcome Trust-DBT India Alliance (127.7 Million), Department of Science and Technology (25 Million USD) and Ministry
+        of Earth Sciences (14.9 Million USD). The major International funders include Bill and Melinda Gates Foundation (669 Million USD),
+        European Commission (568 Million USD), Engineering and Physical Sciences Research Council (410 Million USD), Medical Research Council
+        (241 Million USD) etc. The figure below (on the left) shows a tree maps of major Domestic Funding Agencies and the figure below
         (on the right) shows a tree maps of major International Funding Agencies.
         <!-- fig -->
     </p>
@@ -324,30 +304,21 @@
             <img src="images/grants/inter_funder.jpg" alt="Figure 5.2" class="img img-fluid img-thumbnail"
                  style="background-color: #FFFFFF;">
             <div class="text-justify small">
-                **BMGF: Bill & Melinda Gates Foundation, EC: European Commission, EPSRC: Engineering and Physical
-                Sciences Research Council,
-                MRC: Medical Research Council, ESRC: Economic and Social Research Council, BBSRC: Biotechnology and
-                Biological
-                Sciences Research Council, NERC: Natural Environment Research Council, STFC: Science and Technology
-                Facilities Council,
-                CDCP: Centers for Disease Control and Prevention, EDCCTP: European & Developing Countries Clinical
-                Trials Partnership,
-                SNSF: Swiss National Science Foundation, MHLW: Ministry of Health Labour and Welfare, FF: Ford
-                Foundation,
+                **BMGF: Bill & Melinda Gates Foundation, EC: European Commission, EPSRC: Engineering and Physical Sciences Research Council,
+                MRC: Medical Research Council, ESRC: Economic and Social Research Council, BBSRC: Biotechnology and Biological
+                Sciences Research Council, NERC: Natural Environment Research Council, STFC: Science and Technology Facilities Council,
+                CDCP: Centers for Disease Control and Prevention, EDCCTP: European & Developing Countries Clinical Trials Partnership,
+                SNSF: Swiss National Science Foundation, MHLW: Ministry of Health Labour and Welfare, FF: Ford Foundation,
                 HF: Hewlett Foundation, WT: Wellcome Trust
             </div>
         </div>
     </div>
     <h2 class="mb-3" id="sub_dist">Subject area-wise distribution of grants</h2>
     <p class="text-justify">
-        The volume of grants, during 2010 - 2019 period, in different subjects, vary significantly. Medical & Health
-        Sciences,
-        with a grant volume of 670 Million USD, tops the chart. This is followed by subject areas like Studies in Human
-        Society
-        (364 Million USD), Engineering (343 Million USD), Biological Sciences (290 Million USD), Information & Computing
-        Sciences
-        (246 Million uSD ) and Environmental Sciences (225 Million USD). The table below shows subject area-wise
-        distribution of grants
+        The volume of grants, during 2010 - 2019 period, in different subjects, vary significantly. Medical & Health Sciences,
+        with a grant volume of 670 Million USD, tops the chart. This is followed by subject areas like Studies in Human Society
+        (364 Million USD), Engineering (343 Million USD), Biological Sciences (290 Million USD), Information & Computing Sciences
+        (246 Million uSD ) and Environmental Sciences (225 Million USD). The table below shows subject area-wise distribution of grants
         along with percentage distribution of Domestic and International grants in each subject area.
         <!-- tab 5.2 -->
     </p>
@@ -519,25 +490,22 @@
         </tbody>
     </table>
     <script>
-        $(document).ready(function () {
+        $(document).ready(function(){
             table = $('#grants_sub').DataTable({
                 'searching': false,
                 'paginate': true,
                 'bInfo': false,
-                'order': [[0, 'asc']],
+                'order': [[ 0, 'asc' ]],
                 'scrollX': true,
-                'lengthMenu': [[11, -1], [11, 'All']],
+                'lengthMenu': [[11, -1],[11, 'All'] ],
             });
         });
     </script>
     <h2 class="mb-3" id="support">Publications supported by grants</h2>
     <p class="text-justify">
-        The publication output supported by research grants for India, are computed from the data. The table below shows
-        year-wise
-        funding volume, supported publications and publications per Million USD. It can be observed that the
-        publications per Million
-        USD value is close to 1 in the initial period, which decreases further to 0.6 publications per Million USD in
-        2018.
+        The publication output supported by research grants for India, are computed from the data. The table below shows year-wise
+        funding volume, supported publications and publications per Million USD. It can be observed that the publications per Million
+        USD value is close to 1 in the initial period, which decreases further to 0.6 publications per Million USD in 2018.
         The subject area-wise distribution of publications supported by grants are also shown below.
         <!-- table 5.3, table 5.4-->
     </p>
@@ -618,12 +586,12 @@
         </tbody>
     </table>
     <script>
-        $(document).ready(function () {
+        $(document).ready(function(){
             table = $('#5-3').DataTable({
                 'searching': false,
                 'paginate': false,
                 'bInfo': false,
-                'ordering': false,
+                'ordering':false,
                 'scrollX': true,
                 "autoWidth": false,
             });
@@ -802,13 +770,13 @@
 
     </table>
     <script>
-        $(document).ready(function () {
+        $(document).ready(function(){
             table = $('#5-4').DataTable({
                 'searching': false,
                 'paginate': true,
                 'bInfo': false,
-                'order': [[0, 'asc']],
-                'lengthMenu': [[11, -1], [11, 'All']],
+                'order': [[ 0, 'asc' ]],
+                'lengthMenu': [[11, -1],[11, 'All'] ],
                 'scrollX': true,
             });
         });

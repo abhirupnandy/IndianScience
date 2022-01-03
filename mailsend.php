@@ -2,26 +2,26 @@
 	header("Refresh:5; url=index.php");
 
 
+
 	$secretKey = '6Ld4MXkdAAAAAAz21ln1UVfzQlCoEbFQ5fIyozQm';
 	$captcha = $_POST['g-recaptcha-response'];
 
-	if (!$captcha) {
+	if(!$captcha){
 		echo '<p class="alert alert-warning">Please check the the captcha form.</p>';
 		exit;
 	}
 
 	$ip = $_SERVER['REMOTE_ADDR'];
-	$response = file_get_contents("https://www.google.com/recaptcha/api/siteverify?secret=" . $secretKey . "&response=" . $captcha . "&remoteip=" . $ip);
-	$responseKeys = json_decode($response, true);
+	$response=file_get_contents("https://www.google.com/recaptcha/api/siteverify?secret=".$secretKey."&response=".$captcha."&remoteip=".$ip);
+	$responseKeys = json_decode($response,true);
 
-	if (intval($responseKeys["success"]) !== 1) {
+	if(intval($responseKeys["success"]) !== 1) {
 		echo '<p class="alert alert-warning">Please check the the captcha form.</p>';
 	}
 
 
-	use PHPMailer\PHPMailer\Exception;
 	use PHPMailer\PHPMailer\PHPMailer;
-
+	use PHPMailer\PHPMailer\Exception;
 	/* Exception class. */
 	require 'PHPMailer/src/Exception.php';
 	/* The main PHPMailer class. */
@@ -129,4 +129,4 @@
 		echo '<p class="alert alert-warning">There was a problem with your submission, please try again.</p>';
 	}*/
 
-?>
+	?>

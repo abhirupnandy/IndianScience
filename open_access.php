@@ -3,18 +3,18 @@
 <a href="javascript:void(0);" id="scroll" title="Scroll to Top" style="display: none;">Top<span></span></a>
 <!-- NAVIGATION BAR -->
 <section>
-    <nav class="navbar navbar-expand-lg navbar-dark ftco_navbar bg-dark ftco-navbar-light" id="ftco-navbar">
-        <div class="container">
-            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#ftco-nav"
-                    aria-controls="ftco-nav" aria-expanded="false" aria-label="Toggle navigation">
-                <span class="fa fa-bars"></span> Menu
-            </button>
-            <form action="#" class="searchform order-lg-last">
-                <div class="form-group d-flex">
-                    <button type="button" class="form-control search"><a href="index.php#section1">
-                            <span class="fa fa-search"></span></a></button>
-                </div>
-            </form>
+	<nav class="navbar navbar-expand-lg navbar-dark ftco_navbar bg-dark ftco-navbar-light" id="ftco-navbar">
+		<div class="container">
+			<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#ftco-nav"
+			        aria-controls="ftco-nav" aria-expanded="false" aria-label="Toggle navigation">
+				<span class="fa fa-bars"></span> Menu
+			</button>
+			<form action="#" class="searchform order-lg-last">
+				<div class="form-group d-flex">
+					<button type="button" class="form-control search"><a href="index.php#section1">
+							<span class="fa fa-search"></span></a></button>
+				</div>
+			</form>
             <div class="collapse navbar-collapse" id="ftco-nav">
                 <ul class="navbar-nav mr-auto">
                     <li class="nav-item"><a href="index.php" class="nav-link">Home</a></li>
@@ -28,7 +28,7 @@
                            data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
                             More
                         </a>
-                        <div class="dropdown-menu item bg-warning text-dark" aria-labelledby="navbarDropdown">
+                        <div class="dropdown-menu item bg-warning text-dark" aria-labelledby="navbarDropdown" >
                             <a class="dropdown-item" href="social-media.php">Social Media Visibility</a>
                             <a class="dropdown-item" href="grants.php">Research Grants</a>
                             <a class="dropdown-item" href="sdg_research.php">SDG related Research</a>
@@ -38,8 +38,8 @@
                     </li>
                 </ul>
             </div>
-        </div>
-    </nav><!-- END nav -->
+		</div>
+	</nav><!-- END nav -->
 </section>
 <div class="hero-wrap p-5" style="background-color: #FFA400">
     <div class="overlay"></div>
@@ -57,35 +57,24 @@
             <div class="col-lg-8 ftco-animate">
                 <h2 class="mb-3" id="introduction">Open Access availability of Indian Research Output</h2
                 <p class="text-justify">
-                    The Indian research output during 2010 to 2019 has been analysed to identify what proportion of
-                    research output
-                    is available in Open Access. It is observed that Open Access availability of Indian Research Output
-                    has improved from
-                    <b>25.86 % in 2010</b> to <b>35.13 % in 2019</b>. In overall terms, 33.61% of the Indian Research
-                    output during 2010-2019 period is
-                    found to be available in Open Access. The figure below (on the left) shows year-wise percentage of
-                    Open Access availability
-                    of the overall Indian Research Output during 2010 to 2019 period. Among the Open Access papers, Gold
-                    Open Access is the most prevelant
-                    type (increasing from 43.01% in 2010 to 63.44% in 2019). This is followed by Green Open Access
-                    (19.67%), Bronze(16.1%)
+                    The Indian research output during 2010 to 2019 has been analysed to identify what proportion of research output
+                    is available in Open Access. It is observed that Open Access availability of Indian Research Output has improved from
+                    <b>25.86 % in 2010</b> to <b>35.13 % in 2019</b>. In overall terms, 33.61% of the Indian Research output during 2010-2019 period is
+                    found to be available in Open Access. The figure below (on the left) shows year-wise percentage of Open Access availability
+                    of the overall Indian Research Output during 2010 to 2019 period. Among the Open Access papers, Gold Open Access is the most prevelant
+                    type (increasing from 43.01% in 2010 to 63.44% in 2019). This is followed by Green Open Access (19.67%), Bronze(16.1%)
                     and Hybrid (7.12%).
-                    The figure below (on the right) shows year-wise Open Access sub-types of during the period 2010 to
-                    2019.
+                    The figure below (on the right) shows year-wise Open Access sub-types of during the period 2010 to 2019.
                 </p>
             </div>
             <div class="col-lg-4 sidebar pl-lg-5 ftco-animate">
                 <div class="sidebar-box ftco-animate">
                     <div class="categories">
                         <h3>Categories</h3>
-                        <li><a href="#introduction">Open Access availability <span class="ion-ios-arrow-forward"></span></a>
-                        </li>
-                        <li><a href="#compare">Comparison with major countries<span
-                                        class="ion-ios-arrow-forward"></span></a></li>
-                        <li><a href="#sub_dist">Subject-area Distribution<span class="ion-ios-arrow-forward"></span></a>
-                        </li>
-                        <li><a href="#funded">OA availability of funded research<span
-                                        class="ion-ios-arrow-forward"></span></a></li>
+                        <li><a href="#introduction">Open Access availability <span class="ion-ios-arrow-forward"></span></a></li>
+                        <li><a href="#compare">Comparison with major countries<span class="ion-ios-arrow-forward"></span></a></li>
+                        <li><a href="#sub_dist">Subject-area Distribution<span class="ion-ios-arrow-forward"></span></a></li>
+                        <li><a href="#funded">OA availability of funded research<span class="ion-ios-arrow-forward"></span></a></li>
                     </div>
                 </div>
 
@@ -118,12 +107,9 @@
     <h2 class="mb-3" id="compare">Comparison with other major countries</h2>
     <p class="text-justify">
         The Open Access levels of India are compared with 20 other major countries. It is observed that India is on the
-        Lower side of Open Access availability level, with only 33.61% papers available in Open Access. In comparison,
-        Brazil has 62.91%
-        of the research papers in Open Access, Switzerland has 55.79% papers in Open Access, United Kingdom 55.59%
-        papers in Open Access,
-        Netherlands (54.08%), Sweden (53.32%), Poland (51.68&). Only China (26.44%), Iran (28.3%) and Taiwan (31.03%)
-        have OA
+        Lower side of Open Access availability level, with only 33.61% papers available in Open Access. In comparison, Brazil has  62.91%
+        of the research papers in Open Access, Switzerland has  55.79% papers in Open Access, United Kingdom 55.59% papers in Open Access,
+        Netherlands (54.08%), Sweden (53.32%), Poland (51.68&). Only China (26.44%), Iran (28.3%) and Taiwan (31.03%) have OA
         proportion lesser than India. The table below shows OA percentage for 20 major countries.<br>
         <br></p>
 
@@ -407,17 +393,17 @@
         </tbody>
     </table>
     <script>
-        $(document).ready(function () {
+        $(document).ready(function(){
             table = $('#oa_major_countries').DataTable({
                 'ordering': true,
-                'columnDefs': [
+                'columnDefs':[
                     {
-                        'targets': [1, 2, 3, 4, 5, 6, 7, 8, 9, 10],
+                        'targets' : [1,2,3,4,5,6,7,8,9,10],
                         'orderable': false,
                     },
                     {
-                        'targets': 0,
-                        'class': 'text-left'
+                        'targets' : 0,
+                        'class' : 'text-left'
                     }
                 ],
                 'searching': false,
@@ -425,45 +411,36 @@
                 'bInfo': false,
                 'scrollX': true,
                 'autoWidth': false,
-                "lengthMenu": [[10, -1], [10, "All"]],
+                "lengthMenu": [[10, -1],[10, "All"] ],
             });
         });
     </script>
     <h2 class="mb-3" id="sub_dist">Subject area-wise Open Access availability of Indian Research Output</h2>
     <p class="text-justify">
-        While India has overall 33.61% papers available in Open Access for the 2010- 2019 period, Open Access
-        availability varies across
-        different subject areas. These variations are as large as 48%. Subjects like Studies in Creative Arts and
-        Writing (10.93%),
-        Information and Computing Science (14.17%) and Technology (15.21%) have a very low proportion of papers
-        available in OA;
-        subjects like Medical & Health Sciences (58.66%), Biological Sciences (41.54%) and Physical Sciences (38.74%)
-        have
+        While India has overall 33.61% papers available in Open Access for the 2010- 2019 period, Open Access availability varies across
+        different subject areas. These variations are as large as 48%. Subjects like Studies in Creative Arts and Writing (10.93%),
+        Information and Computing Science (14.17%) and Technology (15.21%) have a very low proportion of papers available in OA;
+        subjects like Medical & Health Sciences (58.66%), Biological Sciences (41.54%) and Physical Sciences (38.74%) have
         relatively higher proportion of papers available in Open Access.
         <br><img src="images/oa/subject-wise.jpg" alt="subject-wise fig" class="img img-thumbnail img-fluid">
     </p>
     <h2 class="mb-3" id="funded">Open Access availability of Funded Research Output</h2>
     <p class="text-justify">
-        As it is often a condition and/or expectation of the funding agencies that research outputs out of publicly
-        funded research projects
-        should be openly accessible, therefore the research outputs out of the funded projects is analysed to find out
-        what proportion of
-        the research output is available in Open Access. it is observed that only about 29.06% of the funded research
-        output in India
+        As it is often a condition and/or expectation of the funding agencies that research outputs out of publicly funded research projects
+        should be openly accessible, therefore the research outputs out of the funded projects is analysed to find out what proportion of
+        the research output is available in Open Access. it is observed that only about 29.06% of the funded research output in India
         is available in OA, though the availability has increased slightly from 25.22% in 2010 in 30.04% in 2019.
-        The figure below (on the left) shows the year-wise Open Access availability of the funded research output. Out
-        of the total funded
-        research output during 2010-2019, 71% is Closed Access, 12% Gold Open Access, 9% Green Open Access, 5% Bronze
-        Open Access and
+        The figure below (on the left) shows the year-wise Open Access availability of the funded research output. Out of the total funded
+        research output during 2010-2019, 71% is Closed Access, 12% Gold Open Access, 9% Green Open Access, 5% Bronze Open Access and
         3% Hybrid Open Access. The pie-chart below (on the right) shows the distribution.</p>
-    <div class="row pt-0 mt-0">
-        <div class="col">
-            <img src="images/oa/7-4.jpg" alt="Figure 7.4" class="img img-fluid img-thumbnail">
+        <div class="row pt-0 mt-0">
+            <div class="col">
+                <img src="images/oa/7-4.jpg" alt="Figure 7.4" class="img img-fluid img-thumbnail">
+            </div>
+            <div class="col">
+                <img src="images/oa/7-5.jpg" alt="Figure 7.5" class="img img-fluid img-thumbnail" style="max-height: 445px">
+            </div>
         </div>
-        <div class="col">
-            <img src="images/oa/7-5.jpg" alt="Figure 7.5" class="img img-fluid img-thumbnail" style="max-height: 445px">
-        </div>
-    </div>
 </div>
 
 <?php include "footer.php" ?>

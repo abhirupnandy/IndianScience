@@ -31,7 +31,7 @@
                            data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
                             More
                         </a>
-                        <div class="dropdown-menu item bg-warning text-dark" aria-labelledby="navbarDropdown">
+                        <div class="dropdown-menu item bg-warning text-dark" aria-labelledby="navbarDropdown" >
                             <a class="dropdown-item" href="social-media.php">Social Media Visibility</a>
                             <a class="dropdown-item" href="grants.php">Research Grants</a>
                             <a class="dropdown-item" href="sdg_research.php">SDG related Research</a>
@@ -53,50 +53,34 @@
             </div>
         </div>
     </div>
-</div>
-<section class="ftco-section ftco-degree-bg">
+</div><section class="ftco-section ftco-degree-bg">
     <div class="container">
         <div class="row">
             <div class="col-lg-8 ftco-animate">
                 <h2 class="mb-3" id="introduction">Comparison of indicators for Major Indian Institutions</h2>
                 <p class="text-justify">
-                    This page presents a comparative analysis of selected indicators for a set of 50 institutions which
-                    have highest
-                    research output during 2010 to 2019 period. The indicators computed are presented in following four
-                    groups -
-                    Research Output & Citations, Authorship & Collaboration patterns, Open Access availabity and Social
-                    Media coverage.
-                    <br>In research output and citations, the value of Total Papers (TP), Compounded Annual Growth Rate
-                    (CAGR<sub>TP</sub>),
-                    Total Citations (TC), Cited Output %, h-index of the institution and the institution's share % in
-                    India's total research output are presented.
-                    <br>In Authorship & Collaboration patterns, the percentage of single and multi-authored papers,
-                    percentage of Female and Male authored research papers
-                    and the percentage of research papers that invloves Domestic or International Collaboration are
-                    shown.
-                    <br>In the Open Access availability part, the percentage of research papers from an institution
-                    which are available in Open Access is
-                    presented, along with the percentage distribution of different OA types (Gold, Green, Bronze &
-                    Hybrid).
-                    <br>In the section on Social Media Coverage, the percentage of research papers from an institution,
-                    which gets coverage in some
-                    social media platform, are shown. The platform-wise percentage and average mentions per paper are
-                    also shown for the instituions, for
+                    This page presents a comparative analysis of selected indicators for a set of 50 institutions which have highest
+                    research output during 2010 to 2019 period. The indicators computed are presented in following four groups -
+                    Research Output & Citations, Authorship & Collaboration patterns, Open Access availabity and Social Media coverage.
+                    <br>In research output and citations, the value of Total Papers (TP), Compounded Annual Growth Rate (CAGR<sub>TP</sub>),
+                    Total Citations (TC), Cited Output %, h-index of the institution and the institution's share % in India's total research output are presented.
+                    <br>In Authorship & Collaboration patterns, the percentage of single and multi-authored papers, percentage of Female and Male authored research papers
+                    and the percentage of research papers that invloves Domestic or International Collaboration are shown.
+                    <br>In the Open Access availability part, the percentage of research papers from an institution which are available in Open Access is
+                    presented, along with the percentage distribution of different OA types (Gold, Green, Bronze & Hybrid).
+                    <br>In the section on Social Media Coverage, the percentage of research papers from an institution, which gets coverage in some
+                    social media platform, are shown. The platform-wise percentage and average mentions per paper are also shown for the instituions, for
                     Twitter, Facebook and Mendeley platforms.
-                    <br>All the tables, by default, are sorted in descending order of the Total Papers (TP). However, a
-                    click on any column will allow sorting the table values
+                    <br>All the tables, by default, are sorted in descending order of the Total Papers (TP). However, a click on any column will allow sorting the table values
                     by that column.
             </div>
             <div class="col-lg-4 sidebar pl-lg-5 ftco-animate">
                 <div class="sidebar-box ftco-animate">
                     <div class="categories">
                         <h3>Categories</h3>
-                        <li><a href="#introduction">Comparison of Indicators<span class="ion-ios-arrow-forward"></span></a>
-                        </li>
-                        <li><a href="#research">Research Output & Citations<span
-                                        class="ion-ios-arrow-forward"></span></a></li>
-                        <li><a href="#author">Authorship & Collaboration<span class="ion-ios-arrow-forward"></span></a>
-                        </li>
+                        <li><a href="#introduction">Comparison of Indicators<span class="ion-ios-arrow-forward"></span></a></li>
+                        <li><a href="#research">Research Output & Citations<span class="ion-ios-arrow-forward"></span></a></li>
+                        <li><a href="#author">Authorship & Collaboration<span class="ion-ios-arrow-forward"></span></a></li>
                         <li><a href="#oa">Open Access<span class="ion-ios-arrow-forward"></span></a></li>
                         <li><a href="#alt">Social Media Visibility<span class="ion-ios-arrow-forward"></span></a></li>
                     </div>
@@ -586,15 +570,15 @@
         </tbody>
     </table>
     <script>
-        $(document).ready(function () {
+        $(document).ready(function(){
             table = $('#major_research_output').DataTable({
-                'order': [[1, 'desc']],
+                'order': [[1,'desc']],
                 'searching': false,
                 'paginate': true,
                 'bInfo': false,
-                'scrollX': true,
+                'scrollX':        true,
                 'scrollCollapse': false,
-                "lengthMenu": [[10, 25, -1], [10, 25, "All"]],
+                "lengthMenu": [[ 10,25, -1],[10,25, "All"] ],
                 'columnDefs': [
                     {
                         "width": "200px",
@@ -611,9 +595,8 @@
     <table class="table table-bordered table-hover text-center text-dark" id="major_auth_gender">
         <thead style="background-color: #4f4e45;" class="cell-border table-dark">
         <tr>
-            <th rowspan="2" style="z-index: 10; background-color: #4f4e45;" class="text-center align-top">Institution
-            </th>
-            <th rowspan="2" class="align-top">TP (2010-2019)</th>
+            <th rowspan="2" style="z-index: 10; background-color: #4f4e45;" class="text-center align-top">Institution</th>
+            <th rowspan="2"  class="align-top">TP (2010-2019)</th>
             <th colspan="4" class="align-top">Authorship Distribution (%)</th>
             <th colspan="2" class="align-top">Gender Distribution (%)</th>
             <th colspan="3" class="align-top">Collaboration Patterns (%)</th>
@@ -749,8 +732,7 @@
             <td>24.06</td>
         </tr>
         <tr>
-            <td style="background-color: #FFFFFF">Post Graduate Institute of Medical Education and Research,Chandigarh
-            </td>
+            <td style="background-color: #FFFFFF">Post Graduate Institute of Medical Education and Research,Chandigarh</td>
             <td>13712</td>
             <td>3.76</td>
             <td>63.61</td>
@@ -1179,8 +1161,7 @@
             <td>34.25</td>
         </tr>
         <tr>
-            <td style="background-color: #FFFFFF">Sanjay Gandhi Post Graduate Institute of Medical Sciences, Lucknow
-            </td>
+            <td style="background-color: #FFFFFF">Sanjay Gandhi Post Graduate Institute of Medical Sciences, Lucknow</td>
             <td>4652</td>
             <td>4.26</td>
             <td>61.61</td>
@@ -1286,16 +1267,16 @@
         </tbody>
     </table>
     <script>
-        $(document).ready(function () {
+        $(document).ready(function(){
             table = $('#major_auth_gender').DataTable({
-                'order': [[1, 'desc']],
+                'order': [[1,'desc']],
                 'searching': false,
                 'paginate': true,
                 'bInfo': false,
-                'scrollX': true,
+                'scrollX':        true,
                 'scrollCollapse': false,
-                "lengthMenu": [[10, 25, -1], [10, 25, "All"]],
-                'fixedColumns': {'left': 1},
+                "lengthMenu": [[10,25, -1],[10,25, "All"] ],
+                'fixedColumns':   { 'left': 1 },
                 'columnDefs': [
                     {
                         "width": "200px",
@@ -1303,8 +1284,8 @@
                         "targets": 0
                     },
                     {
-                        "targets": [6, 7],
-                        "render": function (data) {
+                        "targets" : [6,7],
+                        "render" :  function (data) {
                             return parseFloat(data).toFixed(2);
                         }
                     }
@@ -1775,15 +1756,15 @@
         </tbody>
     </table>
     <script>
-        $(document).ready(function () {
+        $(document).ready(function(){
             table = $('#major_oa').DataTable({
-                'order': [[1, 'desc']],
+                'order': [[1,'desc']],
                 'searching': false,
                 'paginate': true,
                 'bInfo': false,
-                scrollX: true,
+                scrollX:true,
                 "autoWidth": false,
-                "lengthMenu": [[10, 25, -1], [10, 25, "All"]],
+                "lengthMenu": [[10,25, -1],[10,25, "All"] ],
                 'columnDefs': [
                     {
                         "width": "200px",
@@ -1800,8 +1781,7 @@
     <table class="table table-bordered table-hover text-center text-dark" id="major_altmetric">
         <thead style="background-color: #4f4e45;" class="cell-border table-dark">
         <tr>
-            <th rowspan="3" style="z-index: 10; background-color: #4f4e45;" class="text-center align-top">Institution
-            </th>
+            <th rowspan="3" style="z-index: 10; background-color: #4f4e45;" class="text-center align-top">Institution</th>
             <th rowspan="3" class="align-top">TP (2010-2019)</th>
             <th rowspan="3" class="align-top">Overall Coverage (%)</th>
             <th colspan="6">Platform-wise coverage (%)</th>
@@ -1921,8 +1901,7 @@
             <td>58.30878415</td>
         </tr>
         <tr>
-            <td style="background-color: #FFFFFF">Post Graduate Institute of Medical Education and Research,Chandigarh
-            </td>
+            <td style="background-color: #FFFFFF">Post Graduate Institute of Medical Education and Research,Chandigarh</td>
             <td>13712</td>
             <td>36.96032672</td>
             <td>26.18873979</td>
@@ -2285,8 +2264,7 @@
             <td>28.14085546</td>
         </tr>
         <tr>
-            <td style="background-color: #FFFFFF">Sanjay Gandhi Post Graduate Institute of Medical Sciences, Lucknow
-            </td>
+            <td style="background-color: #FFFFFF">Sanjay Gandhi Post Graduate Institute of Medical Sciences, Lucknow</td>
             <td>4652</td>
             <td>32.24419604</td>
             <td>22.44196045</td>
@@ -2376,16 +2354,16 @@
         </tbody>
     </table>
     <script>
-        $(document).ready(function () {
+        $(document).ready(function(){
             table = $('#major_altmetric').DataTable({
-                'order': [[1, 'desc']],
+                'order': [[1,'desc']],
                 'searching': false,
                 'paginate': true,
                 'bInfo': false,
-                'scrollX': true,
+                'scrollX':        true,
                 'scrollCollapse': false,
-                "lengthMenu": [[10, 25, -1], [10, 25, "All"]],
-                'fixedColumns': {'left': 1},
+                "lengthMenu": [[10,25, -1],[10,25, "All"] ],
+                'fixedColumns':   { 'left': 1 },
                 'columnDefs': [
                     {
                         "width": "200px",
@@ -2393,8 +2371,8 @@
                         "targets": 0
                     },
                     {
-                        "targets": [2, 3, 4, 5, 6, 7, 8],
-                        "render": function (data) {
+                        "targets" : [2,3,4,5,6,7,8],
+                        "render" :  function (data){
                             return parseFloat(data).toFixed(2);
                         }
                     }
@@ -2420,10 +2398,8 @@
                                     </div>
                                     <div class="col-md-9 d-flex align-items-center">
                                         <div class="container-fluid">
-                                            <input type="text" class="form-control" id="search"
-                                                   placeholder="Name of the Institution" autocomplete="off""/>
-                                            <div id="display" class="text-dark"
-                                                 style="z-index: 10; position: absolute;"></div>
+                                            <input type="text" class="form-control" id="search" placeholder="Name of the Institution" autocomplete="off""/>
+                                            <div id="display" class="text-dark" style="z-index: 10; position: absolute;"></div>
                                         </div>
                                     </div>
                                 </div>

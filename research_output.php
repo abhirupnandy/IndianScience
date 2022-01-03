@@ -28,7 +28,7 @@
                            data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
                             More
                         </a>
-                        <div class="dropdown-menu item bg-warning text-dark" aria-labelledby="navbarDropdown">
+                        <div class="dropdown-menu item bg-warning text-dark" aria-labelledby="navbarDropdown" >
                             <a class="dropdown-item" href="social-media.php">Social Media Visibility</a>
                             <a class="dropdown-item" href="grants.php">Research Grants</a>
                             <a class="dropdown-item" href="sdg_research.php">SDG related Research</a>
@@ -58,36 +58,26 @@
             <div class="col-lg-8 ftco-animate">
                 <h2 class="mb-3" id="introduction">Indian Research Output during 2010 - 2019</h2>
                 <p class="text-justify">
-                    Indian Research Output in the 2010 to 2019 period has grown significantly in volume. While a total
-                    of <b>60,250</b>
-                    publications were there in 2010, by 2019 this increased to 148,724. The Compounded Annual Growth
-                    Rate (CAGR)
-                    has been 9.46% which is higher than the world average CAGR( 5.62%). India's global share of research
-                    output has also increased
-                    in this period, from <b>2.17% in 2010</b> to <b>3.1% in 2019</b>. The figures below present
-                    year-wise research output of
+                    Indian Research Output in the 2010 to 2019 period has grown significantly in volume. While a total of <b>60,250</b>
+                    publications were there in 2010, by 2019 this increased to 148,724. The Compounded Annual Growth Rate (CAGR)
+                    has been 9.46% which is higher than the world average CAGR( 5.62%). India's global share of research output has also increased
+                    in this period, from <b>2.17% in 2010</b> to <b>3.1% in 2019</b>. The figures below present year-wise research output of
                     India and world, and also India's global share.<br>
                 </p>
                 <div class="row">
                     <div class="col">
-                        <img src="images/research/FIG1-1.jpg" alt="Figure 1.1" class="img img-fluid img-thumbnail"
-                             style="min-height: 250px;">
+                        <img src="images/research/FIG1-1.jpg" alt="Figure 1.1" class="img img-fluid img-thumbnail" style="min-height: 250px;">
                     </div>
                     <div class="col">
-                        <img src="images/research/FIG1-2.jpg" alt="Figure 1.2" class="img img-fluid img-thumbnail"
-                             style="min-height: 250px;">
+                        <img src="images/research/FIG1-2.jpg" alt="Figure 1.2" class="img img-fluid img-thumbnail" style="min-height: 250px;">
                     </div>
                 </div>
 
                 <p class="text-justify">
-                    India's global rank in research output has also been improving constantly during this period. In the
-                    year 2010, India ranked
-                    10th globally in research output volume, which improved to 9th in 2011 and 2012, 8th in 2013, 7th in
-                    2014, and 6th in 2015.
-                    From 2015 onwards, India continues to be ranked 6th globally in research output volume. The
-                    countries ranking above India are -
-                    United States, China, United Kingdom, Germany, Japan. The figure below shows year-wise ranked
-                    positions of India during this period.
+                    India's global rank in research output has also been improving constantly during this period. In the year 2010, India ranked
+                    10th globally in research output volume, which improved to 9th in 2011 and 2012, 8th in 2013, 7th in 2014, and 6th in 2015.
+                    From 2015 onwards, India continues to be ranked 6th globally in research output volume. The countries ranking above India are -
+                    United States, China, United Kingdom, Germany, Japan. The figure below shows year-wise ranked positions of India during this period.
                     <br><br>
                     <img src="images/research/FIG1-3.jpg" alt="Fig1.3" class="img img-fluid img-thumbnail"
                          style="margin-left: auto; margin-right: auto; display: block;"><br>
@@ -97,14 +87,10 @@
                 <div class="sidebar-box ftco-animate">
                     <div class="categories">
                         <h3>Categories</h3>
-                        <li><a href="#introduction">Indian Research Output <span
-                                        class="ion-ios-arrow-forward"></span></a></li>
-                        <li><a href="#compare">Comparison with other countries<span
-                                        class="ion-ios-arrow-forward"></span></a></li>
-                        <li><a href="#sub_dist">Subject-area Distribution<span class="ion-ios-arrow-forward"></span></a>
-                        </li>
-                        <li><a href="#sub_analysis">Subject-area Analysis<span class="ion-ios-arrow-forward"></span></a>
-                        </li>
+                        <li><a href="#introduction">Indian Research Output <span class="ion-ios-arrow-forward"></span></a></li>
+                        <li><a href="#compare">Comparison with other countries<span class="ion-ios-arrow-forward"></span></a></li>
+                        <li><a href="#sub_dist">Subject-area Distribution<span class="ion-ios-arrow-forward"></span></a></li>
+                        <li><a href="#sub_analysis">Subject-area Analysis<span class="ion-ios-arrow-forward"></span></a></li>
                     </div>
                 </div>
 
@@ -126,12 +112,9 @@
 <div class="container pb-5 mb-5">
     <h2 class="mb-3" id="compare">Comparison with other major countries</h2>
     <p class="text-justify">
-        For a better understanding of India's research performance, the values of research output volume, CAGR, and
-        global share
-        of 20 major countries are compared, as shown in the Table below. It can be seen that India has a high CAGR value
-        of <b>9.46%</b>,
-        which is lesser than only three countries - Russia (11.43%), Iran (10.56%) and China (9.50%). In terms of global
-        share,
+        For a better understanding of India's research performance, the values of research output volume, CAGR, and global share
+        of 20 major countries are compared, as shown in the Table below. It can be seen that India has a high CAGR value of <b>9.46%</b>,
+        which is lesser than only three countries - Russia (11.43%), Iran (10.56%) and China (9.50%). In terms of global share,
         India accounts for
         2.95% of the total research output of the world during 2010-2019 period.
         <!-- Table 1.1 -->
@@ -292,7 +275,7 @@
         </tbody>
     </table>
     <script>
-        $(document).ready(function () {
+        $(document).ready(function(){
             table = $('#globalRank').DataTable({
                 'ordering': true,
                 'searching': false,
@@ -300,22 +283,18 @@
                 'bInfo': false,
                 scrollX: true,
                 "autoWidth": false,
-                "lengthMenu": [[10, -1], [10, "All"]],
+                "lengthMenu": [[10, -1],[10, "All"] ],
             });
         });
     </script>
     <h2 class="mb-3 mt-3 pt-5" id="sub_dist">Subject area distribution of Indian Research Output</h2>
     <p class="text-justify">
-        Indian research output is visualized in 22 major fields of research, as provided by the Dimensions database.
-        India's research output is
-        dominated by subjects like Medical & Health Sciences, Engineering, Chemical Sciences and Information & Computing
-        Sciences. The subject-area
-        distribution of Indian research output as well as the world-wide research output is shown in the figures below -
-        <br></p>
+        Indian research output is visualized in 22 major fields of research, as provided by the Dimensions database. India's research output is
+        dominated by subjects like Medical & Health Sciences, Engineering, Chemical Sciences and Information & Computing Sciences. The subject-area
+        distribution of Indian research output as well as the world-wide research output is shown in the figures below - <br></p>
     <div class="row">
         <div class="col-12 col-md">
-            <img src="images/research/FIG1-6.jpg" alt="FIG 1.6" class="img img-thumbnail img-fluid"
-                 style="min-height: 400px"
+            <img src="images/research/FIG1-6.jpg" alt="FIG 1.6" class="img img-thumbnail img-fluid" style="min-height: 400px"
                  style="margin-left: auto; margin-right: auto; display: block;">
         </div>
         <div class="col-12 col-md">
@@ -325,20 +304,14 @@
     </div>
     <h2 class="mb-3 mt-3 pt-5" id="sub_analysis">Subject Area-wise CAGR, Global Share and Rank</h2>
     <p class="text-justify">
-        As seen in the subject area distribution above, India's research performance varies across different subject
-        areas. For the 2010 to 2019 period,
-        India's global rank varies from 3rd in Chemical Sciences (and also Information & Computing Sciences, Technology)
-        to 10th in Medical & Health Sciences,
-        15th in Studies in Human Society, 20th in History & Archaeology and 28th in Philosophy and Religious studies.
-        These variations are observed
-        in subject-area wise global shares as well. While, Indian Research Output in Technology constitutes 6.63% of
-        global share, it is just 0.34%
-        in Philosophy & Religious studies. The CAGR values in different subject areas also vary with Information and
-        Computing Sciences (13.91%), Environmental Sciences
-        (13.43%) and Engineering (12.83%) being the three fastest growing subject areas. The CAGR values for India in
-        all the subject areas are found to be
+        As seen in the subject area distribution above, India's research performance varies across different subject areas. For the 2010 to 2019 period,
+        India's global rank varies from 3rd in Chemical Sciences (and also Information & Computing Sciences, Technology) to 10th in Medical & Health Sciences,
+        15th in Studies in Human Society, 20th in History & Archaeology and 28th in Philosophy and Religious studies. These variations are observed
+        in subject-area wise global shares as well. While, Indian Research Output in Technology constitutes 6.63% of global share, it is just 0.34%
+        in Philosophy & Religious studies. The CAGR values in different subject areas also vary with Information and Computing Sciences (13.91%), Environmental Sciences
+        (13.43%) and Engineering (12.83%) being the three fastest growing subject areas. The CAGR values for India in all  the subject areas are found to be
         higher than the world average.<br></p>
-    <!-- Table 1.3 + column India CAGR values from table 1.4-->
+        <!-- Table 1.3 + column India CAGR values from table 1.4-->
     <table class="table table-bordered table-hover text-center text-dark" id="indiaRank">
         <thead style="background-color: #4f4e45;" class="cell-border table-dark">
         <tr>
@@ -553,14 +526,14 @@
         </tbody>
     </table>
     <script>
-        $(document).ready(function () {
+        $(document).ready(function(){
             table = $('#indiaRank').DataTable({
                 'ordering': true,
                 'searching': false,
                 'paginate': true,
                 'bInfo': false,
-                "lengthMenu": [[11, -1], [11, "All"]],
-                'scrollX': true,
+                "lengthMenu": [[11, -1],[11, "All"] ],
+                'scrollX':        true,
                 'scrollCollapse': false,
                 'columnDefs': [
                     {

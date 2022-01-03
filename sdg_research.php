@@ -3,44 +3,44 @@
 <a href="javascript:void(0);" id="scroll" title="Scroll to Top" style="display: none;">Top<span></span></a>
 <!-- NAVIGATION BAR -->
 <section>
-    <nav class="navbar navbar-expand-lg navbar-dark ftco_navbar bg-dark ftco-navbar-light" id="ftco-navbar">
-        <div class="container">
-            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#ftco-nav"
-                    aria-controls="ftco-nav" aria-expanded="false" aria-label="Toggle navigation">
-                <span class="fa fa-bars"></span> Menu
-            </button>
-            <form action="#" class="searchform order-lg-last">
-                <div class="form-group d-flex">
-                    <button type="button" class="form-control search"><a href="index.php#section1">
-                            <span class="fa fa-search"></span></a></button>
-                </div>
-            </form>
-            <div class="collapse navbar-collapse" id="ftco-nav">
-                <ul class="navbar-nav mr-auto">
-                    <li class="nav-item"><a href="index.php" class="nav-link">Home</a></li>
-                    <li class="nav-item"><a href="research_output.php" class="nav-link">Research Output</a></li>
-                    <li class="nav-item"><a href="citation.php" class="nav-link">Citations</a></li>
-                    <li class="nav-item"><a href="collab.php" class="nav-link">Collaboration</a></li>
+	<nav class="navbar navbar-expand-lg navbar-dark ftco_navbar bg-dark ftco-navbar-light" id="ftco-navbar">
+		<div class="container">
+			<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#ftco-nav"
+			        aria-controls="ftco-nav" aria-expanded="false" aria-label="Toggle navigation">
+				<span class="fa fa-bars"></span> Menu
+			</button>
+			<form action="#" class="searchform order-lg-last">
+				<div class="form-group d-flex">
+					<button type="button" class="form-control search"><a href="index.php#section1">
+							<span class="fa fa-search"></span></a></button>
+				</div>
+			</form>
+			<div class="collapse navbar-collapse" id="ftco-nav">
+				<ul class="navbar-nav mr-auto">
+					<li class="nav-item"><a href="index.php" class="nav-link">Home</a></li>
+					<li class="nav-item"><a href="research_output.php" class="nav-link">Research Output</a></li>
+					<li class="nav-item"><a href="citation.php" class="nav-link">Citations</a></li>
+					<li class="nav-item"><a href="collab.php" class="nav-link">Collaboration</a></li>
                     <li class="nav-item"><a href="gender.php" class="nav-link">Gender Distribution</a></li>
-                    <li class="nav-item"><a href="open_access.php" class="nav-link">Open Access</a></li>
-                    <li class="nav-item active dropdown">
-                        <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button"
-                           data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-                            More
-                        </a>
-                        <div class="dropdown-menu item bg-warning text-dark" aria-labelledby="navbarDropdown">
+					<li class="nav-item"><a href="open_access.php" class="nav-link">Open Access</a></li>
+					<li class="nav-item active dropdown">
+						<a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button"
+						   data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+							More
+						</a>
+                        <div class="dropdown-menu item bg-warning text-dark" aria-labelledby="navbarDropdown" >
                             <a class="dropdown-item" href="social-media.php">Social Media Visibility</a>
                             <a class="dropdown-item" href="grants.php">Research Grants</a>
                             <a class="dropdown-item" href="sdg_research.php">SDG related Research</a>
                             <a class="dropdown-item" href="major_inst.php">Major Institutions</a>
                             <a class="dropdown-item" href="list_inst.php">Institutional Reports</a>
                         </div>
-                    </li>
-                </ul>
-            </div>
-        </div>
-    </nav>
-    <!-- END nav -->
+					</li>
+				</ul>
+			</div>
+		</div>
+	</nav>
+	<!-- END nav -->
 </section>
 <div class="hero-wrap p-5" style="background-color: #FFA400">
     <div class="overlay"></div>
@@ -53,72 +53,58 @@
     </div>
 </div>
 <section class="ftco-section ftco-degree-bg">
-    <div class="container">
-        <div class="row">
-            <div class="col-lg-8 ftco-animate">
-                <h2 class="mb-3" id="introduction">Indian Research Publications on Sustainable Development Goals</h2>
-                <p class="text-justify">
-                    The Sustainable Development Goals (SDGs) or Global Goals are a collection of 17 interlinked global
-                    goals designed
-                    to be a "blueprint to achieve a better and more sustainable future for all". The SDGs were set up in
-                    2015 by the
-                    United Nations General Assembly and are intended to be achieved by the year 2030. They are included
-                    in a UN Resolution
+	<div class="container">
+		<div class="row">
+			<div class="col-lg-8 ftco-animate">
+				<h2 class="mb-3" id="introduction">Indian Research Publications on Sustainable Development Goals</h2>
+				<p class="text-justify">
+                    The Sustainable Development Goals (SDGs) or Global Goals are a collection of 17 interlinked global goals designed
+                    to be a "blueprint to achieve a better and more sustainable future for all". The SDGs were set up in 2015 by the
+                    United Nations General Assembly and are intended to be achieved by the year 2030. They are included in a UN Resolution
                     called the 2030 Agenda or what is colloquially known as Agenda 2030.<br>
                     The 17 SDGs are:</p>
                 <img src="images/sdg/sdgs.png" class="img img-thumbnail img-fluid"
-                     style="width: 100%; height: auto">
+                style="width: 100%; height: auto">
                 <div class="text-right small">
-                    **Source - <a href="https://sdgs.un.org">https://sdgs.un.org</a>
-                </div>
+                **Source - <a href="https://sdgs.un.org">https://sdgs.un.org</a>
             </div>
-            <div class="col-lg-4 sidebar pl-lg-5 ftco-animate">
-                <div class="sidebar-box ftco-animate">
-                    <div class="categories">
-                        <h3>Categories</h3>
-                        <li><a href="#introduction">Indian Research related to SDGs<span
-                                        class="ion-ios-arrow-forward"></span></a></li>
-                        <li><a href="#sub_dist">Subject-area Distribution<span class="ion-ios-arrow-forward"></span></a>
-                        </li>
-                    </div>
-                </div>
+			</div>
+			<div class="col-lg-4 sidebar pl-lg-5 ftco-animate">
+				<div class="sidebar-box ftco-animate">
+					<div class="categories">
+						<h3>Categories</h3>
+						<li><a href="#introduction">Indian Research related to SDGs<span class="ion-ios-arrow-forward"></span></a></li>
+						<li><a href="#sub_dist">Subject-area Distribution<span class="ion-ios-arrow-forward"></span></a></li>
+					</div>
+				</div>
 
-                <div class="sidebar-box ftco-animate">
-                    <h3>Tag Cloud</h3>
-                    <div class="tagcloud">
-                        <a href="#" class="tag-cloud-link">India</a>
-                        <a href="#" class="tag-cloud-link">Research Output</a>
-                        <a href="#" class="tag-cloud-link">Dimensions</a>
-                        <a href="#" class="tag-cloud-link">World Data</a>
-                        <a href="#" class="tag-cloud-link">Ranks</a>
-                        <a href="#" class="tag-cloud-link">Subjects</a>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
+				<div class="sidebar-box ftco-animate">
+					<h3>Tag Cloud</h3>
+					<div class="tagcloud">
+						<a href="#" class="tag-cloud-link">India</a>
+						<a href="#" class="tag-cloud-link">Research Output</a>
+						<a href="#" class="tag-cloud-link">Dimensions</a>
+						<a href="#" class="tag-cloud-link">World Data</a>
+						<a href="#" class="tag-cloud-link">Ranks</a>
+						<a href="#" class="tag-cloud-link">Subjects</a>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
 </section> <!-- .section -->
 <div class="container pb-5 mb-5">
     <p class="text-justify">
-        In this context, India's research output during 2010 - 2019 has been analysed to find out what amount of
-        research
-        output is related to the Sustainable Development Goals. A publication is said to be about a Sustainable
-        Development Goal (SDG),
-        if it is related to the concerned SDG in one way or other. The Dimensions database provides an SDG related
-        tagging of
+        In this context, India's research output during 2010 - 2019 has been analysed to find out what amount of research
+        output is related to the Sustainable Development Goals. A publication is said to be about a Sustainable Development Goal (SDG),
+        if it is related to the concerned SDG in one way or other. The Dimensions database provides an SDG related tagging of
         research publications through it's own algorithmic approaches (apparently based on Machine Learning).
-        It is observed that the three SDGs (7-Affordable & Clean Energy, 3-Good Health & Well Being and 13-Climate
-        Action)
-        have got significant attention of Indian Research community, as measured by Indian Research publications. For
-        the SDG
-        7-Affordable & Clean Energy, the number of research publications have increased from 1313 in 2010 to 9612 in
-        2019
-        (with a CAGR value of 22%). For SDG 3-Good Health & Well-Being, research publications have increased from 1408
-        in 2010 to
-        5582 in 2019 with a CAGR of 14.8%. Similarly, the SDG 13-Climate Action has also seen a growth 336 publications
-        in 2010 to
-        2513 publications in 2019 (with a CAGR value of 22.3%). There is also some research on other SDGs like 2-Zero
-        Hunger,
+        It is observed that the three SDGs (7-Affordable & Clean Energy, 3-Good Health & Well Being and 13-Climate Action)
+        have got significant attention of Indian Research community, as measured by Indian Research publications. For the SDG
+        7-Affordable & Clean Energy, the number of research publications have increased from 1313 in 2010 to 9612 in 2019
+        (with a CAGR value of 22%). For SDG 3-Good Health & Well-Being, research publications have increased from 1408 in 2010 to
+        5582 in 2019 with a CAGR of 14.8%. Similarly, the SDG 13-Climate Action has also seen a growth 336 publications in 2010 to
+        2513 publications in 2019 (with a CAGR value of 22.3%). There is also some research on other SDGs like 2-Zero Hunger,
         4-Quality Education and 11-Sustainable cities and communities, though the volume in these cases are much lesser.
         The figure below shows the year-wise research output from India, on the 17 different SDGs. A tree map of the
         total research output on different SDGs during the period 2010-2019 is also shown thereafter.
@@ -127,20 +113,15 @@
     <br><br>
     <img src="images/sdg/treemap.jpg" alt="Treemap SDGs" class="img img-thumbnail img-fluid h-75">
     <br><br>
-    <h2 class="mb-3" id="sub_dist">Subject area-wise composition of Research Output on SDGs</h2>
-    <p class="text-justify">
-        Researchers from different areas have contributed to different SDGs. For the SDG 7-Affordable & Clean Energy,
-        about 45% of the
-        publications to subject area Engineering, followed by 16% from Chemical Sciences, 12% from Technology, and 11%
-        from Information and
-        Computing Science. For SDG 3-Good Health & Well Being, about 78% publications are in the area of Medical and
-        Health Sciences, followed by
-        6% in Biological Sciences and 5% in Information & Computing Science. Similarly for SDG 13-Climate Actions, about
-        47% of the publications
-        are from Engineering, 12% from Earth Sciences and 10% from Chemical Sciences. The table below shows contribution
-        from different
+	<h2 class="mb-3" id="sub_dist">Subject area-wise composition of Research Output on SDGs</h2>
+	<p class="text-justify">
+		Researchers from different areas have contributed to different SDGs. For the SDG 7-Affordable & Clean Energy, about 45% of the
+        publications to subject area Engineering, followed by 16% from Chemical Sciences, 12% from Technology, and 11% from Information and
+        Computing Science. For SDG 3-Good Health & Well Being, about 78% publications are in the area of Medical and Health Sciences, followed by
+        6% in Biological Sciences and 5% in Information & Computing Science. Similarly for SDG 13-Climate Actions, about 47% of the publications
+        are from Engineering, 12% from Earth Sciences and 10% from Chemical Sciences. The table below shows contribution from different
         subject areas to the research output on SDGs.
-    </p>
+	</p>
     <div class="container" style="overflow-x: auto; table-layout: fixed; word-wrap:break-word;">
         <table class="table table-sm table-bordered table-hover text-center text-dark" id="sdg-sub"
                style="table-layout: fixed">
@@ -611,36 +592,36 @@
         </table>
     </div>
     <style>
-        .check {
+        .check{
             background-color: #FFFFFF;
         }
     </style>
-    <script>
-        $(document).ready(function () {
-            table = $('#sdg-sub').DataTable({
-                'ordering': [[0, 'asc']],
-                'searching': false,
-                'paginate': true,
-                'bInfo': false,
-                'autoWidth': false,
-                'lengthMenu': [6, [11, -1], [6, 11, "All"]],
-                'scrollX': true,
-                'scrollCollapse': false,
-                'fixedColumns': {'left': 1},
-                'columnDefs': [
-                    {
-                        "width": "200px",
-                        "className": 'text-left',
-                        "targets": 0
-                    },
-                    {
-                        "width": "50px",
-                        "targets": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17]
-                    }
-                ],
+        <script>
+            $(document).ready(function(){
+                table = $('#sdg-sub').DataTable({
+                    'ordering' : [[0,'asc']],
+                    'searching': false,
+                    'paginate': true,
+                    'bInfo': false,
+                    'autoWidth': false,
+                    'lengthMenu': [6,[11, -1],[6,11, "All"]],
+                    'scrollX':        true,
+                    'scrollCollapse': false,
+                    'fixedColumns':   { 'left': 1 },
+                    'columnDefs': [
+                        {
+                            "width": "200px",
+                            "className": 'text-left',
+                            "targets": 0
+                        },
+                        {
+                            "width": "50px",
+                            "targets": [1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17]
+                        }
+                    ],
+                });
             });
-        });
-    </script>
+        </script>
 </div>
 
 <?php include "footer.php" ?>
